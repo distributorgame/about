@@ -767,6 +767,14 @@ section{
         transform: translateX(0);
     }
 }
+.last-text p{
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    background: rgb(7, 85, 91);
+    font-weight: 200;
+    margin-top: 50px;    
+}
 .top{
     position: fixed;
     bottom: 2.1rem;
